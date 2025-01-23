@@ -16,7 +16,7 @@ A Python debugging tool with auto-fix, comment removal, logging, and error detec
 1. Ensure Python 3.x is installed.
 2. Install dependencies:
     ```bash
-    pip install rich tqdm
+    pip install -r requirements.txt
     ```
 
 ## Usage
